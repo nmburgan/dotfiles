@@ -1,0 +1,5 @@
+[user]
+	name = Nick Burgan-Illig
+	email = nick.burgan-illig@puppet.com
+[alias]
+lg = "log --pretty=format:'%C(yellow)%h%C(reset) %C(blue)%an%C(reset) %C(cyan)%cr - %ci%C(reset) %s %C(green)%d%C(reset)' --graph --date-order"
